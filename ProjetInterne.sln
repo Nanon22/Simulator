@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetInterne", "ProjetInterne\ProjetInterne.csproj", "{ADE3244E-9858-46C9-825A-582514105D5A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SimulateurSetup", "SimulateurSetup\SimulateurSetup.vdproj", "{F279DFF5-A69F-4439-A359-A227D263EB65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADE3244E-9858-46C9-825A-582514105D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE3244E-9858-46C9-825A-582514105D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE3244E-9858-46C9-825A-582514105D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE3244E-9858-46C9-825A-582514105D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F279DFF5-A69F-4439-A359-A227D263EB65}.Debug|Any CPU.ActiveCfg = Debug
+		{F279DFF5-A69F-4439-A359-A227D263EB65}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28E9EA27-2DDB-4D98-8F95-9F15D4069556}
+	EndGlobalSection
+EndGlobal
